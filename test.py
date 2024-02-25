@@ -7,7 +7,7 @@ import random
  
 # What you enter here will be searched for in
 # Google Images
-query = "chinese wall"
+query = "eiffel tower"
  
 # Creating a webdriver instance
 driver = webdriver.Chrome()
